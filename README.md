@@ -13,7 +13,7 @@ Esta es una aplicación de gestión de productos desarrollada con NestJS, TypeOR
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/GerbertGarcia/gestion-productos.git>
    cd gestion-productos
    ```
 
